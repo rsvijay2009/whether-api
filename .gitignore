@@ -3,7 +3,6 @@
 /public/storage
 /storage
 /vendor
-.env
 .env.backup
 .env.example
 .editorconfig
